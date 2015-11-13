@@ -1,0 +1,37 @@
+[{
+  "name": "Maya",
+  "age": "20",
+  "gender": "Female",
+  "position":"Developer"
+},{
+  "name": "Rikz",
+  "age": "22",
+  "gender": "Male",
+  "position":"Developer"
+},{
+  "name": "Anu",
+  "age": "25",
+  "gender": "Female",
+  "position":"Tester"
+},{
+  "name": "Manik",
+  "age": "27",
+  "gender": "Male",
+  "position":"Developer"
+},{
+  "name": "Ram",
+  "age": "22",
+  "gender": "Male",
+  "position":"System"
+},{
+  "name": "Kiran",
+  "age": "32",
+  "gender": "Male",
+  "position":"Team Lead"
+},{
+  "name": "Vimal",
+  "age": "21",
+  "gender": "Male",
+  "position":"Fresher"
+}
+]
