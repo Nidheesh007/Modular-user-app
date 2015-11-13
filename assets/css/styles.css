@@ -97,6 +97,7 @@ top:17%;
 margin-left:-202px;
 font-family:'Raleway',sans-serif;
 z-index:5;
+width: -moz-available;
 }
 .close{
 float:right;
